@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/dvw06/liquidmesh/liquidox/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/dvw06/.android/build-cache/e5e51d11b46fd578382b3e5ebd01253462342824/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/dvw06/liquidmesh/liquidox/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/dvw06/.android/build-cache/e5e51d11b46fd578382b3e5ebd01253462342824/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

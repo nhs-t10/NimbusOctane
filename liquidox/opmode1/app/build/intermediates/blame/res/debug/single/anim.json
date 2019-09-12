@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/dvw06/liquidmesh/liquidox/opmode1/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/dvw06/.android/build-cache/e5e51d11b46fd578382b3e5ebd01253462342824/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/dvw06/liquidmesh/liquidox/opmode1/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/dvw06/.android/build-cache/e5e51d11b46fd578382b3e5ebd01253462342824/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/dvw06/liquidmesh/liquidox/opmode1/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/dvw06/.android/build-cache/e5e51d11b46fd578382b3e5ebd01253462342824/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/dvw06/liquidmesh/liquidox/opmode1/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/dvw06/.android/build-cache/e5e51d11b46fd578382b3e5ebd01253462342824/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/dvw06/liquidmesh/liquidox/opmode1/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/dvw06/.android/build-cache/e5e51d11b46fd578382b3e5ebd01253462342824/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/dvw06/liquidmesh/liquidox/opmode1/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/dvw06/.android/build-cache/e5e51d11b46fd578382b3e5ebd01253462342824/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/dvw06/liquidmesh/liquidox/opmode1/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/dvw06/.android/build-cache/e5e51d11b46fd578382b3e5ebd01253462342824/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/dvw06/liquidmesh/liquidox/opmode1/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/dvw06/.android/build-cache/e5e51d11b46fd578382b3e5ebd01253462342824/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/dvw06/liquidmesh/liquidox/opmode1/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/dvw06/.android/build-cache/e5e51d11b46fd578382b3e5ebd01253462342824/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/dvw06/liquidmesh/liquidox/opmode1/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/dvw06/.android/build-cache/e5e51d11b46fd578382b3e5ebd01253462342824/output/res/anim/abc_fade_in.xml"
+    }
+]

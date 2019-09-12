@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/dvw06/.android/build-cache/49c75cc0477fbba81f21c7f2686bfe6582242e7c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/dvw06/liquidmesh/liquidox/app/build/intermediates/pre-dexed/debug/classes_750a084e4aabd1a0bb065e56216362e145142725.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dvw06/.android/build-cache/0e9d7247125456c37ce4f788899483481a459373/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/dvw06/liquidmesh/liquidox/app/build/intermediates/pre-dexed/debug/classes_7db3a93e3640bf3b11fcb2dc5b26940c7df01e74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dvw06/.android/build-cache/b8b7fe66e638d5443391fb55692ebcb1a1908a7f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/dvw06/liquidmesh/liquidox/app/build/intermediates/pre-dexed/debug/classes_8de20714169e4eea741c38184e04de81d343c4bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dvw06/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/dvw06/liquidmesh/liquidox/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_169a6a24f276b3cac08deb6ff025d0730cc1bf01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dvw06/.android/build-cache/a94360e8c14a8578fa01abec370aeeafbc893b38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/dvw06/liquidmesh/liquidox/app/build/intermediates/pre-dexed/debug/classes_163da85210a49472233fecc0c23f00ef8c8259cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dvw06/.android/build-cache/5dad64079480090760f7167ed294d78e9c665f24/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/dvw06/liquidmesh/liquidox/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_861489da13ce4229b5de88d3b8ba42d48dbaa4c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dvw06/.android/build-cache/e5e51d11b46fd578382b3e5ebd01253462342824/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/dvw06/liquidmesh/liquidox/app/build/intermediates/pre-dexed/debug/classes_b0ffb5f30bcb61b3502e035b456b72c40f47771c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dvw06/.android/build-cache/b8b7fe66e638d5443391fb55692ebcb1a1908a7f/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/dvw06/liquidmesh/liquidox/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2a5ca0fa76d080a21a397ff4411d52b0d3305c6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dvw06/.android/build-cache/dc2f4462bbc3aa7eef0dbcdeaf3ffff982c2971c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/dvw06/liquidmesh/liquidox/app/build/intermediates/pre-dexed/debug/classes_3883178c46e54d836916e23bd068712673a4e334.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dvw06/.android/build-cache/dc2f4462bbc3aa7eef0dbcdeaf3ffff982c2971c/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/dvw06/liquidmesh/liquidox/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_44be71ac03e97ea85cb6d3ea558c5b371bc886f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dvw06/.android/build-cache/a41fbbae54c826b28da32880f1ae5d4bb69ae5ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/dvw06/liquidmesh/liquidox/app/build/intermediates/pre-dexed/debug/classes_816b2ce8c71811cd17f5f21fd75b5cc7c6de164a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dvw06/.android/build-cache/c4e84c2c5f3778395a609a73a5485c3fff5a9c1d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/dvw06/liquidmesh/liquidox/app/build/intermediates/pre-dexed/debug/classes_6c19ffc1036ecd5003aaee3238aed14b839ffcd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dvw06/.android/build-cache/a41fbbae54c826b28da32880f1ae5d4bb69ae5ff/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/dvw06/liquidmesh/liquidox/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_641c5c5bcf85a64d010d63a3b7978c9f972aa424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dvw06/.android/build-cache/3e3935593356edfbbbc07598952190a9eed701dd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/dvw06/liquidmesh/liquidox/app/build/intermediates/pre-dexed/debug/classes_d4c5dd90c4113dda4171784595cc2c552ed5f3ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dvw06/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/dvw06/liquidmesh/liquidox/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_be312b9614dbc977f4b7416a638debb11275fd5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dvw06/.android/build-cache/3e3935593356edfbbbc07598952190a9eed701dd/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/dvw06/liquidmesh/liquidox/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_003245db376685f64562ebf88d72dd1bd7e9fac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dvw06/.android/build-cache/5dad64079480090760f7167ed294d78e9c665f24/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/dvw06/liquidmesh/liquidox/app/build/intermediates/pre-dexed/debug/classes_f80dbc3d31a2bf5e4ff0db69f75d0a52ee799692.jar" />
+    </item>
+
+</items>
