@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NimbusOctane.iml" filepath="$PROJECT_DIR$/NimbusOctane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nimbusoctane.iml" filepath="$PROJECT_DIR$/nimbusoctane.iml" group="nimbusoctane" />
     </modules>
   </component>
 </project>
