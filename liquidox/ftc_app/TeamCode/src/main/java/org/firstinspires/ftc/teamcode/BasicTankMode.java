@@ -10,6 +10,14 @@ import org.firstinspires.ftc.teamcode.LO2Library;
 @TeleOp
 public class BasicTankMode extends OpMode {
     DcMotor lf, lb, rf, rb;
+
+    public void drive(float x, float y, float h, float k){
+        lf.setPower(-x);
+        lb.setPower(-y);
+        rf.setPower(h);
+        rb.setPower(k);
+    }
+
     public void init() {
         lf = hardwareMap.dcMotor.get("lf");
         lb = hardwareMap.dcMotor.get("lb");
@@ -18,10 +26,10 @@ public class BasicTankMode extends OpMode {
     }
 
     public void loop() {
-        lf = -(gamepad1.leftstick_y);
-        lb = -(gamepad1.leftstick_y);
-        rf = -(gamepad1.leftstick_y);
-        rb = -(gamepad1.leftstick_y);
+        float lY = gamepad1.leftstick_y;
+        float lX = gamepad1.leftstick_x;
+        float rX = gamepad1.rightstick_x;
+        drive (lY, lY, lY, lY);
     }
 }
 
