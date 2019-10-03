@@ -18,20 +18,21 @@ public class BasicTankMode extends OpMode {
         rb.setPower(k);
     }
 
+
     public void init() {
         lf = hardwareMap.dcMotor.get("lf");
         lb = hardwareMap.dcMotor.get("lb");
         rf = hardwareMap.dcMotor.get("rf");
         rb = hardwareMap.dcMotor.get("rb");
     }
-
     public void loop() {
+
         float lY = gamepad1.leftstick_y;
         float lX = gamepad1.leftstick_x;
         float rX = gamepad1.rightstick_x;
         drive (lY, lY, lY, lY);
+
     }
-}
 
 
 
