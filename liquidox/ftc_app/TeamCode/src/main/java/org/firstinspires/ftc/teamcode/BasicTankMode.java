@@ -28,10 +28,10 @@ public class BasicTankMode extends OpMode {
     }
 
     public void loop() {
-        lf = -(gamepad1.leftstick_y);
-        lb = -(gamepad1.leftstick_y);
-        rf = -(gamepad1.leftstick_y);
-        rb = -(gamepad1.leftstick_y);
+       float lX = gamepad1.left_stick_x;
+       float lY = gamepad1.left_stick_y;
+       float rX = gamepad1.right_stick_x;
+       drive(lY, lY, lY, lY);
     }
 }
 
