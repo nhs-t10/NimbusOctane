@@ -39,6 +39,12 @@ public class BasicTankMode extends OpMode {
        omniValues[3] = (lY - rX + lX)/3;
        drive(omniValues[0], omniValues[1], omniValues[2], omniValues[3]);
 
+        for(int i=1; i<1; i++){
+            if (omniValues[0] < highest) highest = omniValues[0];
+            if (omniValues[1] < highest) highest = omniValues[1];
+            if (omniValues[2] < highest) highest = omniValues[2];
+            if (omniValues[3] < highest) highest = omniValues[3];
+        }
     }
 
 
