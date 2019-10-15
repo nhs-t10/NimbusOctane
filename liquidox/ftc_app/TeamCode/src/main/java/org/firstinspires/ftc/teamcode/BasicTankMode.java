@@ -38,7 +38,7 @@ public class BasicTankMode extends OpMode {
        omniValues[2] = (lY - rX - lX)/3;
        omniValues[3] = (lY - rX + lX)/3;
        drive(omniValues[0], omniValues[1], omniValues[2], omniValues[3]);
-       
+
     }
 
 
