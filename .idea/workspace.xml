@@ -25,11 +25,16 @@
         <entry file="file://$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/BasicTankMode.java">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             <state relative-caret-position="390">
               <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
 =======
             <state relative-caret-position="136">
               <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+>>>>>>> Stashed changes
+=======
+            <state relative-caret-position="221">
+              <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
 >>>>>>> Stashed changes
               <folding>
                 <element signature="imports" expanded="true" />
@@ -63,8 +68,13 @@
       <pane id="Scope" />
       <pane id="AndroidView" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+=======
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+>>>>>>> Stashed changes
 =======
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
@@ -145,8 +155,14 @@
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26077098" />
+=======
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26455027" />
+>>>>>>> Stashed changes
 =======
     <editor active="true" />
     <layout>
@@ -166,7 +182,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="TODO" order="6" visible="true" weight="0.32980132" />
+      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.32980132" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32980132" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32980132" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32980132" />
@@ -188,11 +204,16 @@
     <entry file="file://$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/BasicTankMode.java">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         <state relative-caret-position="390">
           <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
 =======
         <state relative-caret-position="136">
           <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+>>>>>>> Stashed changes
+=======
+        <state relative-caret-position="221">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
 >>>>>>> Stashed changes
           <folding>
             <element signature="imports" expanded="true" />
