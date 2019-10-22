@@ -1,0 +1,14 @@
+@overrride
+public void runOpMode () throws InterruptedException {
+  motorLeft = hardwareMap.dcMotor.get('motor_1);
+  motorRight = hardwareMap.dcMotor.get("motor_2");
+  neck = hardwareMap.servo.get("servo_1");
+  jaw = hardwareMap.servo.get("servo_1");
+  
+  motorLeft.setDirection(DcMotor.Direction.REVERSE);
+  
+  / / set the starting position of the wrist abd neck
+  neckPosition = 0.5;
+  
+  
+  
