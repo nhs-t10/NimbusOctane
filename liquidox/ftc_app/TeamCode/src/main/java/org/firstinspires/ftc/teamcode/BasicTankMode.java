@@ -52,6 +52,59 @@ public class BasicTankMode extends OpMode {
 
 
 
-/*
-public void forward (x)
- */
+
+}
+public void forward (rotations) {
+    int position = lf.getCurrentPosition():
+    while lf.getCurrentPosition() < position + (rotations * 560) {
+        lf.setPower(-1);
+        lb.setPower(-1);
+        rf.setPower(1);
+        rb.setPower(1);
+    }
+    lf.setPower(0);
+    lb.setPower(0);
+    rf.setPower(0);
+    rb.setPower(0);
+}
+public void left (rotations) {
+    int position = lf.getCurrentPosition():
+    while lf.getCurrentPosition() < position + (rotations * 560) {
+        lf.setPower(-1);
+        lb.setPower(-1);
+        rf.setPower(-1);
+        rb.setPower(-1);
+    }
+    lf.setPower(0);
+    lb.setPower(0);
+    rf.setPower(0);
+    rb.setPower(0);
+}
+public void right (rotations) {
+    int position = lf.getCurrentPosition():
+    while lf.getCurrentPosition() < position + (rotations * 560) {
+        lf.setPower(1);
+        lb.setPower(1);
+        rf.setPower(1);
+        rb.setPower(1);
+    }
+    lf.setPower(0);
+    lb.setPower(0);
+    rf.setPower(0);
+    rb.setPower(0);
+}
+public void back (rotations) {
+    int position = lf.getCurrentPosition():
+    while lf.getCurrentPosition() < position + (rotations * 560) {
+        lf.setPower(1);
+        lb.setPower(1);
+        rf.setPower(-1);
+        rb.setPower(-1);
+    }
+    lf.setPower(0);
+    lb.setPower(0);
+    rf.setPower(0);
+    rb.setPower(0);
+}
+    
+
