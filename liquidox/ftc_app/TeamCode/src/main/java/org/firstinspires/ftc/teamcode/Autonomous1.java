@@ -7,7 +7,7 @@ import com.qualcomm.robotcore.util.Range;
 import org.firstinspires.ftc.teamcode.LO2Library;
 
 
-@TeleOp
+@Autonomous
 public class Autonomous1 extends OpMode {
     DcMotor lf, lb, rf, rb;
     float [] omniValues = new float [4];
@@ -15,10 +15,10 @@ public class Autonomous1 extends OpMode {
         return inches/4;
     }
     public void drive(float x, float y, float h, float k){
-        lf.setPower(-lf);
-        lb.setPower(-lb);
-        rf.setPower(rf);
-        rb.setPower(rb);
+        lf.setPower(-x);
+        lb.setPower(-y);
+        rf.setPower(h);
+        rb.setPower(k);
     }
     public void forward (float rotations) {
         int position = lf.getCurrentPosition():
@@ -80,7 +80,36 @@ public class Autonomous1 extends OpMode {
         rb = hardwareMap.dcMotor.get("rb");
     }
     public void loop() {
-
+        switch (step) {
+            case (1):
+                right(inchConversion(29));
+                step++;
+                break;
+            case (2):
+                back(inchConversion(60));
+                if (isYellow() == false){
+                    drive(0, 0, 0, 0);
+                    step++;
+                    break;
+                }
+            case (3):
+                back(inchConversion(25));
+                step++;
+                break;
+            case (4):
+                right(inchConversion(6));
+                step++;
+                break;
+            case (5)
+        }
     }
 }
+
+
+
+
+
+
+
+
 
