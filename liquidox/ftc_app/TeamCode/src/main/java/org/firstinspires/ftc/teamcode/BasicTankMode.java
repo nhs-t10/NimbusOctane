@@ -4,13 +4,42 @@ import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.util.Range;
+import com.qualcomm.robotcore.hardware.Servo;
+import com.qualcomm.robotcore.hardware.CRServo;
 import org.firstinspires.ftc.teamcode.LO2Library;
-
 
 @TeleOp
 public class BasicTankMode extends OpMode {
     DcMotor lf, lb, rf, rb;
+    Servo claw, hook;
+    CRServo ladder;
     float [] omniValues = new float [4];
+    public void clawControl(boolean button){
+        if (button = true) {
+            openClaw();
+        }else{
+            closeClaw();
+        }
+    }
+    public void lift(){
+        if (gamepad1.left_trigger > gamepad1.right_trigger){
+            ladder.setPower(-gamepad1.left_trigger);
+        }else {
+            ladder.setPower(gamepad1.right_trigger);
+        }
+    }
+    public void hookUp(){
+        hook.setPosition(1);
+    }
+    public void hookDown(){
+        hook.setPosition(0.5);
+    }
+    public void openClaw(){
+        claw.setPosition(0.5); //subject to change for ease of hardware
+    }
+    public void closeClaw(){
+        claw.setPosition(0); //subject to change for ease of hardware
+    }
     public float inchConversion(float inches){
         return inches/4;
     }
@@ -27,6 +56,11 @@ public class BasicTankMode extends OpMode {
         lb = hardwareMap.dcMotor.get("lb");
         rf = hardwareMap.dcMotor.get("rf");
         rb = hardwareMap.dcMotor.get("rb");
+        hook = hardwareMap.cervo.get("Hook");
+        claw = hardwareMap.servo.get("Claw");
+        ladder = hardwareMap.crservo.get("Ladder");
+        hook.setPosition(1);
+        claw.setPosition(0);
     }
     public void loop() {
 
@@ -50,6 +84,8 @@ public class BasicTankMode extends OpMode {
             }
         }
         drive(omniValues[0], omniValues[1], omniValues[2], onmiValues[3]);
+        lift();
+        clawControl(gamepad1.button_a);
     }
 }
 
