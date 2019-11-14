@@ -6,8 +6,22 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd10cadb-8171-45da-8a70-fb5bba96eb51" name="Default" comment="">
+    <list default="true" id="bd10cadb-8171-45da-8a70-fb5bba96eb51" name="Default" comment="Merge branch 'master' of https://github.com/nhs-t10/nimbusoctane into Jack-Henderson&#10;&#10;# Conflicts:&#10;#&#9;.gradle/4.4/fileHashes/fileHashes.lock&#10;#&#9;.idea/modules.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/BasicTankMode.java">
+      <change afterPath="$PROJECT_DIR$/autonomous test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Autonomous1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Autonomous2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Autonomous3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Autonomous4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lolol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/BasicTankMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/BasicTankMode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -27,14 +41,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/BasicTankMode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+            <state relative-caret-position="358">
+              <caret line="106" column="5" lean-forward="true" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+                <element signature="e#490#491#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Autonomous1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="83" column="17" lean-forward="true" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Autonomous2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="78" column="43" lean-forward="true" selection-start-line="78" selection-start-column="43" selection-end-line="78" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Autonomous3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="103" selection-start-line="103" selection-end-line="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Autonomous4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -49,23 +104,142 @@
       <list>
         <option value="$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/DriveCodeV1" />
         <option value="$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/BasicTankMode.java" />
+        <option value="$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Autonomous1.java" />
+        <option value="$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Autonomous2.java" />
+        <option value="$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Autonomous3.java" />
+        <option value="$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Autonomous4.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="258" />
-    <option name="y" value="99" />
-    <option name="width" value="1149" />
-    <option name="height" value="654" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="1371" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="nimbusoctane" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/nimbusoctane" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="nimbusoctane" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/nimbusoctane" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="liquidox" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="nimbusoctane" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/nimbusoctane" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="liquidox" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ftc_app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="nimbusoctane" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/nimbusoctane" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="liquidox" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ftc_app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="TeamCode" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="nimbusoctane" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/nimbusoctane" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="liquidox" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ftc_app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="TeamCode" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="nimbusoctane" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/nimbusoctane" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="liquidox" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ftc_app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="TeamCode" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="nimbusoctane" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/nimbusoctane" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="liquidox" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ftc_app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="TeamCode" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="nimbusoctane" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/nimbusoctane" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="liquidox" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ftc_app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="TeamCode" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="org" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="nimbusoctane" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/nimbusoctane" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="liquidox" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ftc_app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="TeamCode" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="org" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="firstinspires" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="nimbusoctane" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/nimbusoctane" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="liquidox" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ftc_app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="TeamCode" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="org" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="firstinspires" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ftc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="nimbusoctane" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/nimbusoctane" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="liquidox" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ftc_app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="TeamCode" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="org" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="firstinspires" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ftc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="teamcode" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nimbusoctane" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nimbusoctane" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -73,8 +247,13 @@
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -131,9 +310,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27168795" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25689307" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Designer" order="3" />
@@ -151,7 +329,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Build" order="9" visible="true" weight="0.3243968" />
+      <window_info active="true" anchor="bottom" id="Build" order="9" visible="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -160,6 +338,7 @@
       <window_info anchor="right" id="Gradle" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Assistant" order="7" weight="0.3349025" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.267653" />
@@ -191,6 +370,10 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
     </layout-to-restore>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'master' of https://github.com/nhs-t10/nimbusoctane into Jack-Henderson&#10;&#10;# Conflicts:&#10;#&#9;.gradle/4.4/fileHashes/fileHashes.lock&#10;#&#9;.idea/modules.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/BasicTankMode.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/nhs-t10/nimbusoctane into Jack-Henderson&#10;&#10;# Conflicts:&#10;#&#9;.gradle/4.4/fileHashes/fileHashes.lock&#10;#&#9;.idea/modules.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/BasicTankMode.java" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Turning.java" />
     <entry file="file://$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/TeleOpOne">
@@ -200,11 +383,44 @@
     <entry file="file://$PROJECT_DIR$/NimbusOctane.iml" />
     <entry file="file://$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/BasicTankMode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        <state relative-caret-position="358">
+          <caret line="106" column="5" lean-forward="true" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Autonomous1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="83" column="17" lean-forward="true" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Autonomous2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="78" column="43" lean-forward="true" selection-start-line="78" selection-start-column="43" selection-end-line="78" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Autonomous3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liquidox/ftc_app/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Autonomous4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
         </state>
       </provider>
     </entry>
